@@ -24,10 +24,10 @@
 
 
 - Klik kanan sembarang pada area halaman website dan pilih inspect:
-<img src="https://i.postimg.cc/DZwJf4jM/1.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/htyZS608/1.png" alt="Gambar 1" width="800">
 
 - pada kanan halaman akan muncul seperti ini:
-<img src="https://i.postimg.cc/J0BhtNbP/2.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/L64Vnv5x/2.png" alt="Gambar 1" width="800">
 
 
 - Copy script di bawah ini:
@@ -131,11 +131,11 @@ checker();
 
 
 - Paste scriptnya ke kanan dan klik Enter seperti ini:
-<img src="https://i.postimg.cc/3W5xGk17/3.png" alt="Gambar 1" width="800">
-<img src="https://i.postimg.cc/dQ7RGg6S/4.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/VL7WMMbm/3.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/g2nqKJvR/4.png" alt="Gambar 1" width="800">
 
 - Maka datamu beserta status SPTJM & Surat Rekomendasi akan muncul:
-<img src="https://i.postimg.cc/76R6xsT5/5.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/VsWRf2fS/5.png" alt="Gambar 1" width="800">
 
 ---
 
