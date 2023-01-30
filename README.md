@@ -26,7 +26,7 @@
 - Klik kanan sembarang pada area halaman website dan pilih inspect:
 <img src="https://user-images.githubusercontent.com/65503928/215508037-0f0b31e5-90e2-490d-98ea-61e79f691685.png" alt="Gambar 1" width="800">
 
-- pada kanan halaman akan muncul seperti ini:
+- pada kanan halaman akan muncul tools inspect dan pilih tab atau menu console seperti ini:
 <img src="https://user-images.githubusercontent.com/65503928/215508095-8a26093a-93d7-4afd-95f5-9ba76bb122ea.png" alt="Gambar 2" width="800">
 
 
