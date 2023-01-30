@@ -18,7 +18,7 @@
 
 ## 🏁 Cara Penggunaan <a name = "getting_started"></a>
 
-### Cek Verifikasi SPTJM & Surat Rekomendasi
+### 😱 Cek Verifikasi SPTJM & Surat Rekomendasi
 
 - Buka Website Kampus Merdeka dan lakukan login seperti biasa <a href="https://kampusmerdeka.kemdikbud.go.id" target="_blank">Kampus Merdeka</a>
 
