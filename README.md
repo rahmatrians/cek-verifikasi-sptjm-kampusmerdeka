@@ -141,7 +141,7 @@ checker();
 
 ### 🤔 Cek Dokumen sudah update atau belum <a name = "cek_dokumen"></a>
 
-- Copy filename dari dokumen yang ingin diperiksa di halaman document kampus merdeka <a href="https://kampusmerdeka.kemdikbud.go.id/profile/document">Document - Kampus Merdeka</a>
+- Copy filename dari dokumen yang ingin diperiksa di halaman document kampus merdeka <a href="https://kampusmerdeka.kemdikbud.go.id/profile/document" target="_blank">Document - Kampus Merdeka</a>
 
 
 - Paste kan filename tersebut ke akhir link di bawah ini:
