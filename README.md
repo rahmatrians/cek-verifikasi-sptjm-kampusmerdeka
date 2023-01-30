@@ -27,7 +27,7 @@
 <img src="https://i.postimg.cc/htyZS608/1.png" alt="Gambar 1" width="800">
 
 - pada kanan halaman akan muncul seperti ini:
-<img src="https://i.postimg.cc/L64Vnv5x/2.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/L64Vnv5x/2.png" alt="Gambar 2" width="800">
 
 
 - Copy script di bawah ini:
@@ -131,11 +131,11 @@ checker();
 
 
 - Paste scriptnya ke kanan dan klik Enter seperti ini:
-<img src="https://i.postimg.cc/VL7WMMbm/3.png" alt="Gambar 1" width="800">
-<img src="https://i.postimg.cc/g2nqKJvR/4.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/VL7WMMbm/3.png" alt="Gambar 3" width="800">
+<img src="https://i.postimg.cc/g2nqKJvR/4.png" alt="Gambar 4" width="800">
 
 - Maka datamu beserta status SPTJM & Surat Rekomendasi akan muncul:
-<img src="https://i.postimg.cc/VsWRf2fS/5.png" alt="Gambar 1" width="800">
+<img src="https://i.postimg.cc/VsWRf2fS/5.png" alt="Gambar 5" width="800">
 
 ---
 
