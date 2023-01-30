@@ -24,7 +24,7 @@
 
 
 - Klik kanan sembarang pada area halaman website dan pilih inspect:
-<img src="https://i.ibb.co/8zhpTBt/Screenshot-2023-01-30-at-20-07-11.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://i.ibb.co/8zhpTBt/Screenshot-2023-01-30-at-20-07-11.png" alt="Girl in a jacket" width="800">
 
 - pada kanan halaman akan muncul seperti ini:
 <img src="https://ibb.co/rbWSTtN" style="width:500px">
