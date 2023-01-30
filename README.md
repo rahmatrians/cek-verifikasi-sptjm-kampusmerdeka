@@ -131,7 +131,7 @@ checker();
 
 
 - Paste scriptnya ke kanan dan klik Enter seperti ini:
-<img src="https://i.postimg.cc/VL7WMMbm/3.png" alt="Gambar 3" width="800">
+<img src="https://user-images.githubusercontent.com/65503928/215507175-028e322f-323f-40b7-8807-1d7fc49b3ec1.png" alt="Gambar 3" width="800">
 <img src="https://i.postimg.cc/g2nqKJvR/4.png" alt="Gambar 4" width="800">
 
 - Maka datamu beserta status SPTJM & Surat Rekomendasi akan muncul:
