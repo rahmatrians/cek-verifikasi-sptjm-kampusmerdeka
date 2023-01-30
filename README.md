@@ -24,10 +24,10 @@
 
 
 - Klik kanan sembarang pada area halaman website dan pilih inspect:
-<img src="https://i.postimg.cc/htyZS608/1.png" alt="Gambar 1" width="800">
+<img src="https://user-images.githubusercontent.com/65503928/215508037-0f0b31e5-90e2-490d-98ea-61e79f691685.png" alt="Gambar 1" width="800">
 
 - pada kanan halaman akan muncul seperti ini:
-<img src="https://i.postimg.cc/L64Vnv5x/2.png" alt="Gambar 2" width="800">
+<img src="https://user-images.githubusercontent.com/65503928/215508095-8a26093a-93d7-4afd-95f5-9ba76bb122ea.png" alt="Gambar 2" width="800">
 
 
 - Copy script di bawah ini:
@@ -132,10 +132,10 @@ checker();
 
 - Paste scriptnya ke kanan dan klik Enter seperti ini:
 <img src="https://user-images.githubusercontent.com/65503928/215507175-028e322f-323f-40b7-8807-1d7fc49b3ec1.png" alt="Gambar 3" width="800">
-<img src="https://i.postimg.cc/g2nqKJvR/4.png" alt="Gambar 4" width="800">
+<img src="https://user-images.githubusercontent.com/65503928/215507644-c140bac4-9c45-4157-99a3-c3436214f26a.png" alt="Gambar 4" width="800">
 
 - Maka datamu beserta status SPTJM & Surat Rekomendasi akan muncul:
-<img src="https://i.postimg.cc/VsWRf2fS/5.png" alt="Gambar 5" width="800">
+<img src="https://user-images.githubusercontent.com/65503928/215507687-19f31a1e-2998-4641-a03e-b26e7405bbec.png" alt="Gambar 5" width="800">
 
 ---
 
